@@ -8,5 +8,6 @@
       "patterns": "FreddyKristiansen.App1.8c8eec06-bf1c-4ab6-b375-a0a6cf31a6bd"
     }
   ],
-  "generateDependencyArtifact": true
+  "generateDependencyArtifact": true,
+  "templateSha": "920b9e1a65667be8e6d54cb478fae5f2847aa3ea"
 }
